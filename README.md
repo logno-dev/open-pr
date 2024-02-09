@@ -37,3 +37,7 @@ Be creative with contributions. They can be as simple as adding an element to th
 - Add to the **Best Pracices** section
 
 ## Best Practices
+
+(replace this with a list of best practices)
+
+## Visit the live site at [ pr.logno.dev ](https://pr.logno.dev)
